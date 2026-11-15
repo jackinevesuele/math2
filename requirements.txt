@@ -1,4 +1,5 @@
 numpy>=2.0,<3
+scipy>=1.14,<2
 sympy>=1.13,<2
 matplotlib>=3.9,<4
 jupyterlab>=4,<5
